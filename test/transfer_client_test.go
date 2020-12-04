@@ -1,8 +1,8 @@
 package test
 
 import (
-	"huobi_futures_Golang/sdk/linearswap/restful"
-	"huobi_futures_Golang/sdk/linearswap/restful/response/transfer"
+	"github.com/sugeladi/huobi_futures_Golang/sdk/linearswap/restful"
+	"github.com/sugeladi/huobi_futures_Golang/sdk/linearswap/restful/response/transfer"
 	"testing"
 )
 
